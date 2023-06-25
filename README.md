@@ -2,7 +2,7 @@
 
 1、支持Python3.5-3.8的版本，暂时不支持Python4.x
 
-2、用途：采样，生成报告和图表
+2、用途：用于Android专项测试，基本功能包括采样，生成报告和图表；本工具通用于任何Android的APP，前提是必须知道package name和第一个运行的activity name
 
 3、理论上可以支持获取的数据如下：
 
